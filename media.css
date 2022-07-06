@@ -1,0 +1,29 @@
+@media screen and (min-width: 650px) {
+    .cards{
+      display: flex;
+      min-width: 600px;
+    }
+    
+    .card-img{
+        background-image: url(./images/image-product-desktop.jpg);
+        width: 60rem;
+        height: auto;
+        border-radius: 1rem 0rem 0 1rem;
+    }
+
+    p{
+        margin-right: 1rem;
+    }
+   
+
+    .btn img{
+        left: 27%;
+    }
+
+    a{
+        padding: .9rem 3rem;
+        margin-left: 2.7rem; 
+    }
+
+
+}
